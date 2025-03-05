@@ -11,6 +11,9 @@ import com.bridgelabz.EmployeePayrollApp.service.EmployeeService;
 import jakarta.validation.Valid;
 import java.util.List;
 
+
+//Rest Request with Mysql Connectivity
+
 @RestController
 @RequestMapping("/employees")
 public class EmployeeController {
